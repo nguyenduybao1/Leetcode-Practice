@@ -43,6 +43,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
