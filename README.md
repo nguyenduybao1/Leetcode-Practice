@@ -19,6 +19,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
@@ -43,6 +44,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -69,4 +71,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
