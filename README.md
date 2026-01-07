@@ -22,6 +22,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0014-longest-common-prefix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -55,6 +56,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -67,6 +69,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 ## Greedy
