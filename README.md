@@ -66,6 +66,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
