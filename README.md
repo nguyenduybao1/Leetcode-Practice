@@ -77,6 +77,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0012-integer-to-roman](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
@@ -101,9 +102,14 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
