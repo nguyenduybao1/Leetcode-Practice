@@ -21,6 +21,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0001-two-sum](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -36,6 +37,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0001-two-sum](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -70,6 +72,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
