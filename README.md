@@ -30,6 +30,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -46,6 +47,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0217-contains-duplicate](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Sorting
@@ -57,6 +59,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -133,8 +136,22 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
