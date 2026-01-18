@@ -70,6 +70,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0014-longest-common-prefix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
