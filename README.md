@@ -83,6 +83,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
@@ -99,6 +100,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0013-roman-to-integer](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0202-happy-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
