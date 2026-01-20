@@ -79,6 +79,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Binary Search
@@ -116,6 +117,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
