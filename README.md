@@ -47,6 +47,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -76,6 +77,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0344-reverse-string) |
