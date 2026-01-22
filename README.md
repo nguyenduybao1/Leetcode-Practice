@@ -37,6 +37,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0290-word-pattern](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Sorting
 |  |
@@ -166,6 +168,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -182,4 +185,17 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
