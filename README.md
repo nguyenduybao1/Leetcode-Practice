@@ -24,6 +24,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0027-remove-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0075-sort-colors) |
@@ -198,4 +199,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
