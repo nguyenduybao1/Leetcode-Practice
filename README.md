@@ -78,6 +78,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
