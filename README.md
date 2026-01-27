@@ -200,6 +200,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -214,4 +215,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0046-permutations](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0047-permutations-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
