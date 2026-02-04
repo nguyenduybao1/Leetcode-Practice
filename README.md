@@ -27,6 +27,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0036-valid-sudoku](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0075-sort-colors) |
@@ -113,6 +114,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0009-palindrome-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0069-sqrtx) |
