@@ -25,6 +25,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0016-3sum-closest](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
@@ -146,6 +147,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0016-3sum-closest](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0125-valid-palindrome) |
