@@ -33,6 +33,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0047-permutations-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0016-3sum-closest](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
