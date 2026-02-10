@@ -38,6 +38,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,6 +189,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0032-longest-valid-parentheses](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
