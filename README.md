@@ -76,6 +76,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3713-longest-balanced-substring-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0345-reverse-vowels-of-a-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [3713-longest-balanced-substring-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0169-majority-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [3713-longest-balanced-substring-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -277,4 +280,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
