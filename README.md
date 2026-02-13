@@ -112,6 +112,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
@@ -212,6 +213,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0020-valid-parentheses](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0739-daily-temperatures](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
