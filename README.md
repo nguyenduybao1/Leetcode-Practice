@@ -219,6 +219,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -243,6 +244,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
