@@ -216,6 +216,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0032-longest-valid-parentheses](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
@@ -297,4 +298,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3713-longest-balanced-substring-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
