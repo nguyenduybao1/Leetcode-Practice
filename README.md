@@ -1,7 +1,7 @@
-# 30 Days of JavaScript – LeetCode
+# LEETCODE PRACTICE
 
-This repository contains my solutions for LeetCode’s **30 Days of JavaScript** challenge.  
-All solutions are written in JavaScript and synced using LeetHub v2.
+This repository contains my solutions for LeetCode’s challenge.  
+All solutions are written in C++, JavaScript and synced using LeetHub v2.
 
 ## Purpose
 - Improve coding interview skills  
