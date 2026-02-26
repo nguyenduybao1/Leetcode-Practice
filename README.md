@@ -124,6 +124,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0345-reverse-vowels-of-a-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [3174-clear-digits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3174-clear-digits) |
 | [3713-longest-balanced-substring-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
@@ -218,6 +219,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0071-simplify-path](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [3174-clear-digits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
+| [3174-clear-digits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3174-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
