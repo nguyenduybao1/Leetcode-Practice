@@ -1,3 +1,17 @@
+/*
+Leetcode 3174 - Clear Digits
+Pattern: Stack
+
+Idea:
+- Traverse string from left -> right.
+- If character is a letter -> push into stack.
+- If character is a digit -> remove closest previous letter:
+    pop from stack (if exists).
+- Build result by reversing stack content.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
 class Solution {
 public:
     string clearDigits(string s) {

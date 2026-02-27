@@ -1,3 +1,18 @@
+/*
+Leetcode 71 - Simplify Path 
+Pattern: Stack / Simulation
+
+Idea:
+- Split the path by '/'.
+- Ignore empty strings and ".".
+- If token is "..", pop from stack if not empty.
+- Otherwise, push the directory name into stack.
+- Join all elements in stack with "/" and prefix with "/".
+- If stack is empty, return "/".
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
 class Solution {
 public:
     string simplifyPath(string path) {

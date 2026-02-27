@@ -1,3 +1,15 @@
+/*
+Leetcode 17 - Letter Combinations of a Phone Number
+Pattern: Backtracking(DFS) + Hashing
+
+Idea:
+- Map each digit to letters
+- Use backtracking to build the string step by step.
+- When current length == digits length -> push to result.
+
+Time Complexity: O(4^n)
+Space Complexity: O(n)
+*/
 class Solution {
 public:
     vector<string> letterCombinations(string digits) {

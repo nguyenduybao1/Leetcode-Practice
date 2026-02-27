@@ -1,3 +1,17 @@
+/*
+Leetcode 11 - Container with most water
+Pattern: TwoPointer(Greedy - Shrinking Window)
+
+Idea:
+- Use two pointers at both ends.
+- Compute area = width × min(height).
+- Move the pointer with smaller height inward,
+   because moving the taller one cannot increase area.
+- Track maximum area.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
 class Solution {
 public:
     int maxArea(vector<int>& height) {

@@ -1,3 +1,18 @@
+/*
+Leetcode 739 - Daily Temperatures
+Pattern: Monotonic Stack (Decreasing Stack)
+
+Idea:
+- Use a monotonic decreasing stack storing indices.
+- Iterate through temperatures.
+- While current temperature is higher than stack top:
+    pop index and calculate waiting days.
+- Push current index into stack.
+- Remaining indices have no warmer future day.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {

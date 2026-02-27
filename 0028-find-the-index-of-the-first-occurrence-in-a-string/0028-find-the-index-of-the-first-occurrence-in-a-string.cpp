@@ -1,3 +1,15 @@
+/*
+Leetcode 28 - Find the Index of the First Occurrence in a String
+Pattern: String Matching
+
+Idea:
+- Try matching needle starting from each valid index in haystack.
+- Compare characters one by one.
+- Return index if fully matched.
+
+Time Complexity: O(n * m)
+Space Complexity: O(1)
+*/
 class Solution {
 public:
     int strStr(string haystack, string needle) {

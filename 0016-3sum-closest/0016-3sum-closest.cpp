@@ -1,3 +1,16 @@
+/*
+Leetcode 16 - 3Sum Closest
+Pattern: Sorting + Two Pointers
+
+Idea:
+- Sort the array.
+- Fix one number.
+- Use two pointers to search for the closest sum to target.
+- Update answer whenever we find smaller difference.
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
 class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {

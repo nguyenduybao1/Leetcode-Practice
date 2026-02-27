@@ -1,3 +1,16 @@
+/*
+Leetcode 3637 - Trionic Array I
+Pattern:  Linear Scan(Monotonic Segments) / Two Pointers
+
+Idea:
+- Scan the array in three monotonic phases:
+  increasing -> decreasing -> increasing.
+- Each phase must be non-empty.
+- If we reach the end exactly after the third phase, return true.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
 class Solution {
 public:
     bool isTrionic(vector<int>& nums) {

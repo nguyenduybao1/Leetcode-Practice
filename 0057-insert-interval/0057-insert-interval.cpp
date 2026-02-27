@@ -1,3 +1,20 @@
+/*
+Leetcode 57 - Insert Interval
+Pattern: Greedy + Interval Scanning
+
+Idea:
+- Because intervals are already sorted and non-overlapping:
+  1. Add all intervals completely BEFORE newInterval.
+  2. Merge all intervals that OVERLAP with newInterval.
+  3. Add all intervals AFTER newInterval.
+
+Key:
+- Only overlapping part needs merging.
+- No need to sort again.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {

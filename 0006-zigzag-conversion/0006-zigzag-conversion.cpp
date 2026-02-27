@@ -1,3 +1,16 @@
+/*
+Leetcode 6 - Zigzag converion
+Pattern: Simulation / String building
+
+Idea:
+- Create numRows strings.
+- Traverse the string and append chars to rows.
+- Move down and up between rows like zigzag.
+- Finally concatenate all rows.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
 class Solution {
 public:
     string convert(string s, int numRows) {
