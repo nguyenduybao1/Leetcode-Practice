@@ -217,10 +217,10 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0032-longest-valid-parentheses](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [3174-clear-digits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3174-clear-digits) |
-| [0094-binary-tree-inorder-traversal](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
