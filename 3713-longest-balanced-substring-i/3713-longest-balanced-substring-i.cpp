@@ -1,22 +1,3 @@
-/*
-Longest Balanced Substring
-Pattern: Brute Force + Frequency Counting
-
-Idea:
-- Fix left boundary.
-- Expand right boundary and maintain:
-    + freq[26] for character frequency
-    + distinct = number of distinct characters
-    + maxFreq = maximum frequency among characters
-    + cntMax = number of characters having frequency == maxFreq
-- A substring is "balanced" if:
-    distinct == cntMax
-  (i.e., all distinct characters appear the same number of times)
-- Update maximum length.
-
-Time Complexity: O(n^2)
-Space Complexity: O(1)
-*/
 class Solution {
 public:
     int longestBalanced(string s) {
