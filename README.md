@@ -164,6 +164,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0015-3sum](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -265,6 +266,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
