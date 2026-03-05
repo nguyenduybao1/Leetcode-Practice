@@ -40,6 +40,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0057-insert-interval](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
@@ -262,6 +263,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0401-binary-watch) |
 ## Simulation
@@ -295,6 +297,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0040-combination-sum-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
