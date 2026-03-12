@@ -54,6 +54,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0217-contains-duplicate](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0739-daily-temperatures) |
@@ -331,4 +332,9 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
