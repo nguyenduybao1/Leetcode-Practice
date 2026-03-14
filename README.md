@@ -66,6 +66,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3637-trionic-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3861-minimum-capacity-box](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
