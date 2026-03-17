@@ -67,6 +67,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3637-trionic-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3637-trionic-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3861-minimum-capacity-box](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3861-minimum-capacity-box) |
+| [3862-find-the-smallest-balanced-index](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,4 +341,5 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [3862-find-the-smallest-balanced-index](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3862-find-the-smallest-balanced-index) |
 <!---LeetCode Topics End-->
