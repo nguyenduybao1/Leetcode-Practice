@@ -127,6 +127,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
@@ -165,6 +166,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0009-palindrome-number](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
@@ -281,6 +283,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/0067-add-binary) |
 | [3174-clear-digits](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3174-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nguyenduybao1/Leetcode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
